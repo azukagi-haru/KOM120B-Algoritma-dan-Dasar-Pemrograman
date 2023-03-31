@@ -17,7 +17,7 @@ Berikut adalah daftar materi dari setiap pertemuan pada mata kuliah ini.
 |     7     | Loop - Do While       |
 |     8     | Array - 1D       |
 |     9     | Array - 2D       |
-|     10    | Pointer & FUngsi       |
+|     10    | Pointer & Fungsi       |
 |     11    | Dynamic Memory Allocation       |
 |     12    | Char       |
 |     13    | String       |
